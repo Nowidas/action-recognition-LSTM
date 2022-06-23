@@ -1,0 +1,1 @@
+here place downloaded UCF101 movies and run 1_SplitFilesToFolders.py and 2_ExtractFrames.py
